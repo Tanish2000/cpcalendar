@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Tanish2000/client_cpcalendar.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Tanish2000/server_cpcalendar.git
