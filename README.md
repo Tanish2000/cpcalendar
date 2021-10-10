@@ -19,7 +19,7 @@ The website is responsive for all different screen sizes like for mobiles, table
 
 ## Features
 <ul>
-  <li>Contest's data gets updated after every 15 minutes. Kindly refresh page for having the changes.</li>
+  <li>Contest's data gets updated after every hour. Kindly refresh page for having the changes.</li>
   <li>Supports all the major competitive programming platforms like Leetcode, Codechef and Codeforces. (still working on adding more platforms) </li>
   <li>Direct links to the contest page.</li>
 </ul>
