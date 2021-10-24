@@ -19,7 +19,7 @@ The website is responsive for all different screen sizes like for mobiles, table
 
 ## Features
 <ul>
-  <li>Contest's data gets updated after every 15 minutes. Kindly refresh page for having the changes.</li>
+  <li>Contest's data gets updated after every hour. Kindly refresh page for having the changes.</li>
   <li>Supports all the major competitive programming platforms like Leetcode, Codechef and Codeforces. (still working on adding more platforms) </li>
   <li>Direct links to the contest page.</li>
 </ul>
@@ -37,9 +37,9 @@ Here are some <ins>Upcoming features</ins> I am working on right now
 To contribute, fork it from the top right corner of the page and then clone it to your local machine with the following command. You have to type this command in your cmd.
 
 ```bash
-git clone <forked-repo-url> --recursion
+git clone <forked-repo-url> --recursive
 ```
-You have to include --recursion in cloning as both client and server folders are submodules of the root directory. Refer [this](https://git-scm.com/book/en/v2/Git-Tools-Submodules) page for more on submodules.
+You have to include `--recursive` in cloning as both client and server folders are submodules of the root directory. Refer [this](https://git-scm.com/book/en/v2/Git-Tools-Submodules) page for more on submodules.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
